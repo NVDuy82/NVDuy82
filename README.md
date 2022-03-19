@@ -15,7 +15,7 @@
     - Facebook: https://www.facebook.com/NguyenVanDuy74175/
     - Youtube: http://www.youtube.com/channel/UCYR05MrZWNlhm_ERPMT856g
 
-- ⚡ Fun fact : Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Music🎵 is the reasons to live.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
