@@ -12,7 +12,7 @@
 
 - 📫 How to reach me:
     - Github: https://github.com/NVDuy82
-    - Facebook: https://www.facebook.com/NguyenVanDuy74175/
+    - Facebook: https://www.facebook.com/NVDuy82/
     - Youtube: http://www.youtube.com/channel/UCYR05MrZWNlhm_ERPMT856g
 
 - ⚡ Fun fact : Music🎵 is the reasons to live.
@@ -41,15 +41,12 @@
       alt="cplusplus" width="40" height="40" /> </a> 
 
 <h3>Statistical Data :-</h3>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvduy82&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="NVDuy82" />
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=nvduy82&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&include_all_commits=true&layout=compact"
-    alt="NVDuy82" 
-    bg_color=#808080/>  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NVDuy82&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="NVDuy82" /></a>
-  
+<p align="left">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=nvduy82&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&include_all_commits=true&layout=compact" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=NVDuy82&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nvduy82&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="top-langs" />
+</p>
+
  <br>
 
 [NVDuy82](https://github.com/NVDuy82)
